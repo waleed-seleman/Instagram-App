@@ -1,4 +1,4 @@
-<h1> Hasoubgram social media platform like Instagram </h1>
+<h1> Social media platform like Instagram </h1>
 <div dir="rtl">
 
 <h2> خطوات تشغيل التطبيق </h2>
